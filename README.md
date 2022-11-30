@@ -32,7 +32,7 @@
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/MyBotzz/RashmikaBot
+git clone https://github.com/Azanpopz/RashmikaBot
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
