@@ -1,12 +1,12 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/Azanpopz/RashmikaBot.git /RashmikaBot
+  git clone https://github.com/Azanpopz/kindi.git /RashmikaBot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /RashmikaBot
+  git clone $UPSTREAM_REPO /kindi
 fi
-cd /RashmikaBot
+cd /kindi
 pip3 install -U -r requirements.txt
-echo "Starting RashmikaBot...."
+echo "Starting kindi...."
 python3 bot.py
