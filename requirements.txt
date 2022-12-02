@@ -12,19 +12,15 @@ datetime
 pytz
 
 aiofiles
-telegraph
+
 pyrogram
-youtube_search_python
-youtube_search
-ytthumb
+
 ffmpeg-python
-googletrans==4.0.0-rc1
-carbonnow==0.0.1
+
+
 Pillow>=4.2.0
 bs4
-string-extract
-domain-extract
-hashtags_extract
+
 Pymoe
 pendulum
 pytesseract
@@ -32,10 +28,5 @@ pyshorteners
 persondoesnotexist
 catdoesnotexist
 python-decouple
-speedtest-cli
-countryinfo
-python-telegram-bot==11.1.0
-pyromod~=1.5
-gtts
-yt_dlp
+
 wget
