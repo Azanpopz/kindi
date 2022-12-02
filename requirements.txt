@@ -21,12 +21,4 @@ ffmpeg-python
 Pillow>=4.2.0
 bs4
 
-Pymoe
-pendulum
-pytesseract
-pyshorteners
-persondoesnotexist
-catdoesnotexist
-python-decouple
 
-wget
